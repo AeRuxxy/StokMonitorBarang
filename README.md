@@ -1,4 +1,4 @@
-# Sistem Monitoring Stok Barang
+# Sistem Monitoring Stok Barang 
 
 Aplikasi desktop sederhana untuk mengelola dan memantau stok barang. Dibangun dengan **Python** dan **Tkinter**, serta menyimpan data secara persisten dalam file JSON.
 
